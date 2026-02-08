@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stuff about multiplayer gamming.
 - 📫 How to reach me right here.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamundsen&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bamundsen)](https://github.com/bamundsen/github-readme-stats)
 
 <!---
 bamundsen/bamundsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
